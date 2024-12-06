@@ -32,11 +32,22 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/31f872f1-c729-44f3-b3bd-4dd6f878a01a)
+
+
 ### Output:
 
+![WhatsApp Image 2024-12-06 at 19 00 18](https://github.com/user-attachments/assets/bed71e0f-036e-430f-9745-7a4adac2261d)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-06 at 19 00 19](https://github.com/user-attachments/assets/246484cc-08f2-430a-88c4-9a0e1be5261f)
+
+
+
+
+
+
+### Name:Prajan ss
+### Register Number:24009412
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
